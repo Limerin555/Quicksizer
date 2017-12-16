@@ -8,7 +8,8 @@ simply select a folder of files where you wish to resize & an output path for th
 Quicksizer is not an executable yet, you will the terminal to launch the Python script.
 
 # Prerequisites
-Currently, the resizing only works for JPEG formated images. Make sure JPEG files are larger 4R size, which is equivalent to 1800px X 1200px.
+Currently, the resizing only works for JPEG formated images.
+Make sure JPEG files are larger than 4R size, which is equivalent to 1800px X 1200px.
 To get the best result, images must be in 4:3 ratio.
 
 # Built With
