@@ -15,10 +15,7 @@ To get the best result, images must be in 4:3 ratio.
 Python 3.6.1
 
 # Modules
-os
-tkinter
-PIL
-resizeimage
+os, tkinter, PIL, resizeimage
 
 # Versioning
 Quicksizer is nothing but a personal project & still in development, future version with more features might be released.
