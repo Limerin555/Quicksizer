@@ -20,15 +20,15 @@ To get the best result, images must be in 4:3 ratio.
 ## How It Looks Like
 1. Input your desired directories for input & output image files.
 
-![Example 1](screenshots/quick_1.JPG)
+![Example 1](screenshots/quick_1.jpg)
 
 2. You will be notified when the process is done.
 
-![Example 2](screenshots/quick_2.JPG)
+![Example 2](screenshots/quick_2.jpg)
 
 3. Check your output directory to see your resized images.
 
-![Example 3](screenshots/quick_3.JPG)
+![Example 3](screenshots/quick_3.jpg)
 
 
 ## Built With
