@@ -17,6 +17,20 @@ Currently, Quicksizer only works for JPEG formated images & was only tested on 6
 Make sure JPEG files are larger than 4R size, which is equivalent to 1800px X 1200px & vice versa.
 To get the best result, images must be in 4:3 ratio.
 
+## How It Looks Like
+1. Input your desired directories for input & output image files.
+
+![Example 1](screenshots/quick_1.JPG)
+
+2. You will be notified when the process is done.
+
+![Example 2](screenshots/quick_2.JPG)
+
+3. Check your output directory to see your resized images.
+
+![Example 3](screenshots/quick_3.JPG)
+
+
 ## Built With
 Python 3.6
 
